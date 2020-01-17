@@ -1,3 +1,3 @@
 # Shortly After
 
-A wishlist application to add recommendations and personal list of activities and places.
+A one stop shop for everyday people to share and keep track of recommendations and wishlists.
